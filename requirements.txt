@@ -1,0 +1,2 @@
+fastapi        # The web framework
+uvicorn        # ASGI server to run FastAPI
